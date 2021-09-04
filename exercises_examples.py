@@ -1,4 +1,9 @@
 
+####
+# Support for ISART 2021-2022 Scripting Courses.
+# Module 001 : Renaming Tool for Maya objects
+####
+
 import maya.cmds as mc
 
 # I define constant variables, which can be used everywhere in the code
