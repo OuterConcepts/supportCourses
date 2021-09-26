@@ -45,6 +45,9 @@ def generate_name_from_type_and_index(object_type, index):
 
      :param index: Number assigned to the object
      :type index: int
+
+     :return: Generated name
+     :rtype: str
      """
     suffix = DEFAULT_SUFFIX
 
